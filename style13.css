@@ -1,0 +1,29 @@
+ .div1{
+        text-align: center;
+        background-color: antiquewhite;
+        color: aqua;
+        width: 100%;
+        border: 1px solid rgb(230, 207, 207);
+}
+.div2{
+        text-align: center;
+        background-color: white;
+        color: aqua;
+        border: 1px solid aqua;
+}
+.div2 h1 {
+    color: black;
+}
+.div3{
+        border: 1px solid aqua;
+        background-color: whitesmoke;
+        color: rgb(155, 23, 23);
+}
+.div3 h2{
+        color: black;
+}
+.top{
+    vertical-align: top;
+}
+
+       
